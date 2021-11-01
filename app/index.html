@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="wrapper box">
+        <section class="posts">
+            <h2 class="heading">News Feed</h2>
+            <!-- <article class="post">
+                <div class="user">
+                    <span class="text">Olek</span>
+                    <span class="text-grey">15/10/2021 18:00</span>
+                </div>
+                <img class="post__img" src="img/forest.jpg" alt="post">
+                <p class="text">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ratione vero, quo deserunt quae harum enim ex vitae repudiandae soluta?
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium exercitationem numquam eum nihil at eveniet asperiores deserunt velit doloribus quae!
+                </p>
+                <div class="interaction">
+                    <button class="interaction__likes"><img src="img/like.svg" alt="like" width="50" height="50"><span>Likes: $</span></button>
+                    <div class="interaction__comment">
+                        <button class="interaction__allComment text-grey">Comments($)</button>
+                        <button class="button-radius">Write Comment</button>
+                    </div>
+                </div>
+                <div class="comment">
+                    <div class="comment__user">
+                        <h4 class="text">Pol</h4>
+                        <span class="text-grey">20/10/2021 18:00</span>
+                    </div>
+                    <p class="text">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id deserunt saepe libero incidunt similique modi eveniet sapiente magni, iusto fugiat?
+                    </p>
+                </div>
+                <form class="form">
+                    <label for="">
+                        <input class="form__input" name="author" type="text" placeholder="Author">
+                    </label>
+                    <textarea class="form__textarea" name="comment" cols="30" rows="10" placeholder="Comment"></textarea>
+                    <button class="comment__button button" type="submit">Send Comment</button>
+                </form>
+            </article> -->
+        </section>
+        <section class="constructor">
+            <h2 class="heading">Post Constructor</h2>
+            <form class="form">
+                <label class="constructor__block">
+                    <span class="constructor__name">Author</span>
+                    <input name="name" class="form__input" type="text">
+                </label>
+                <label class="constructor__block">
+                    <span class="constructor__name">Post text</span>
+                    <textarea class="form__textarea" name="text" cols="30" rows="10"></textarea>
+                </label>
+                <label class="constructor__block">
+                    <span class="constructor__name">Image Url</span>
+                    <div class="constructor__box">
+                        <input name="imgUrl" class="constructor__input form__input" type="text">
+                        <button id="uploadPhoto" type="button" class="button-radius">Upload</button>
+                    </div>
+                </label>
+                <div class="img">
+                    <!-- <img class="constructor__img" src="img/forest.jpg" alt="Your photo"> -->
+               </div>
+                <button id="sendPost" class="button" type="submit">Send Post</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

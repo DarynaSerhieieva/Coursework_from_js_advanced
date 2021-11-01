@@ -1,0 +1,20 @@
+{
+  "name": "prodject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack ./app/js/index.js --output-path ./app --output-filename app.js --watch --mode development",
+    "start:node": "node server.js",
+    "start:json": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.59.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

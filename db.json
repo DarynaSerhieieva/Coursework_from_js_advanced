@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Olecksander",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg",
+      "date": "27/10/2021 23:47",
+      "likes": 12
+    },
+    {
+      "id": 2,
+      "name": "Maria",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/sun/sunflowers-in-the-evening-sunshine.jpg",
+      "date": "29/10/2021 23:47",
+      "likes": 6
+    },
+    {
+      "id": 3,
+      "name": "Pol",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. ",
+      "img": "https://images.unsplash.com/photo-1485395578879-6ba080c9cdba?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "date": "29/10/2021 23:50",
+      "likes": 5
+    },
+    {
+      "id": 4,
+      "name": "Lolita",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://elsahngreens.com/wp-content/uploads/2020/07/orange.jpg",
+      "date": "30/10/2021 12:32",
+      "likes": 8
+    },
+    {
+      "id": 5,
+      "name": "Natali",
+      "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?",
+      "img": "https://static-wix-blog.wix.com/photography/2018/09/comment-with-stunning-photo_featured.png?_gl=1*172onzo*_ga*NDIyNjU1NjMuMTYzNTU1MDE3OA..",
+      "date": "1/11/2021 3:38",
+      "likes": 7
+    },
+    {
+      "id": 6,
+      "name": "Katarina",
+      "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and",
+      "img": "https://static.posters.cz/image/1300/%D0%A4%D0%BE%D1%82%D0%BE%D1%88%D0%BF%D0%B0%D0%BB%D0%B5%D1%80%D0%B8/autumn-in-the-forest-i66141.jpg",
+      "date": "01/11/2021 3:57",
+      "likes": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 5,
+      "name": "Pol",
+      "date": "01/11/2021 3:53",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 2,
+      "postId": 5,
+      "name": "Roman",
+      "date": "01/11/2021 3:53",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 3,
+      "postId": 5,
+      "name": "Tomach",
+      "date": "01/11/2021 3:53",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 4,
+      "postId": 4,
+      "name": "Tolik",
+      "date": "01/11/2021 3:54",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 5,
+      "postId": 3,
+      "name": "Maria",
+      "date": "01/11/2021 3:54",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 6,
+      "postId": 3,
+      "name": "Katia",
+      "date": "01/11/2021 3:54",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 7,
+      "postId": 2,
+      "name": "Lolita",
+      "date": "01/11/2021 3:54",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 8,
+      "postId": 1,
+      "name": "Nil",
+      "date": "01/11/2021 3:54",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 9,
+      "postId": 1,
+      "name": "Kemi",
+      "date": "01/11/2021 3:55",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    },
+    {
+      "id": 10,
+      "postId": 1,
+      "name": "Gold",
+      "date": "01/11/2021 3:55",
+      "comment": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and"
+    }
+  ]
+}
